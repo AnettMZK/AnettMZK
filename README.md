@@ -7,8 +7,6 @@
 </p>
 
 ---
-<img alt="Plant" src="https://i.pinimg.com/originals/67/e3/a5/67e3a584d45f2297fb40c52ace784af6.gif" align="right"/>
----
 
 ## 🌷 Currently Learning:
 <p align="left">
@@ -26,8 +24,8 @@
 ## 💡 GitHub Analytics:
 <p align="center">
   <a href="https://github.com/AVS1508">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=pink&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=pink"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
 
