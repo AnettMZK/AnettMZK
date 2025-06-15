@@ -14,7 +14,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
 
----
+<div align="right">
+  <img src="https://i.pinimg.com/originals/67/e3/a5/67e3a584d45f2297fb40c52ace784af6.gif" alt="cat coding gif" width="100" />
+</div>
 
 ## ✨ My social media:
 <p align="left">
@@ -26,8 +28,8 @@
 ## 💡 GitHub Analytics:
 <p align="left">
   <a href="https://github.com/AnettMZK">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnettMZK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnettMZK&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnettMZK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnettMZK&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
 
