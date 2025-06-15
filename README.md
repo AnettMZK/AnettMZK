@@ -1,20 +1,10 @@
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h1>🌸 Hi there! I'm Anett</h1>
-        <p>
+<h1 align="center">🌸 Hi there! I'm Anett</h1>
+
+<p align="center">
           A <strong>Computer Engineering student</strong> 👩‍💻<br>
           Creative, curious,💫<br>
           Always excited to learn something new 🌱
-        </p>
-      </td>
-      <td>
-        <img src="https://media.tenor.com/VPb8yZMA4x8AAAAi/plant.gif" width="180" alt="plant gif">
-      </td>
-    </tr>
-  </table>
-</div>
+</p>
 
 ---
 
@@ -24,3 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
 ---
+
+<p align="right">
+  <img src="https://media.tenor.com/VPb8yZMA4x8AAAAi/plant.gif" width="150" alt="plant gif"/>
+</p>
