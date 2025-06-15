@@ -16,6 +16,6 @@
 ---
 
 <p align="right">
-  <img src="https://media.tenor.com/VPb8yZMA4x8AAAAi/plant.gif" width="150" alt="plant gif"/>
+  <img src= "https://assets.pinterest.com/ext/embed.html?id=18436679718223273" height="257" width="236" alt="plant gif"/>
 </p>
 
