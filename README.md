@@ -15,7 +15,3 @@
 </p>
 ---
 
-<p align="right">
-  <img src= "https://assets.pinterest.com/ext/embed.html?id=18436679718223273" height="257" width="236" alt="plant gif"/>
-</p>
-
