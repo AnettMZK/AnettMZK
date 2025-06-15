@@ -1,8 +1,8 @@
 <h1 align="center">🌸 Hi there! I'm Anett</h1>
 
 <p align="center">
-          A <strong>Computer Engineering student</strong> 👩‍💻<br>
-          Creative, curious,💫<br>
+          A <strong>systems engineering student</strong> 👩‍💻<br>
+          Creative, curious💫<br>
           Always excited to learn something new 🌱
 </p>
 
@@ -16,5 +16,6 @@
 ---
 
 <p align="right">
-  <img src="https://media.tenor.com/VPb8yZMA4x8AAAAi/plant.gif" width="150" alt="plant gif"/>
+  <img src="https://i.pinimg.com/originals/6d/65/50/6d6550ef8179aaad35d9009038c96041.gif" width="180" alt="cute gif"/>
 </p>
+
